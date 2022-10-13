@@ -101,3 +101,8 @@
     color: white;
   }
   
+  @media (max-width:600px){
+    img{ display:none;}
+    h1{ font-size:64px;}
+    h2{ font-size:38px;}
+  }
